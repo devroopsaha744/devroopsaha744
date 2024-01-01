@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @devroopsaha744
-- 👀 I’m interested in AI, Machine Learning and Data Science
-- 🌱 I’m currently learning Computer Vision and Flask
-- 
-- I have a keen interest on research on topics related to Machine Learning.
-- I would also like to collaborate on Open source projects related to my interests.
--
-<!---
-devroopsaha744/devroopsaha744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Devroop Saha.I am a second-year Computer Science Engineering student at AKGEC, specializing in Data Science. 
+
+A deep love for Machine Learning, Mathematics, Statistics, and Data Science fuels my journey in technology. I find immense joy in continuous learning, whether it involves exploring intricate algorithms, diving into mathematical concepts, or unraveling the potential of data. I also have a keen interest in Research, especially in subjects related to my interests.
+
+As a Medium writer, I share my insights and experiences in the ever-evolving realms of machine learning and data science. Through my academic pursuits, I am building a strong foundation in computer science, Statistics, and Mathematics, with a keen interest in leveraging technology to extract meaningful patterns from data. 
+
+Currently, I am learning Deep Learning, Computer vision, and Backend via FastAPI.
