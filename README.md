@@ -11,8 +11,9 @@ class DevroopSaha:
     def bio(self):
         return (
             f"Hi, I'm {self.name}, a {self.education} at {self.college}, "
-            f"focused on {self.focus}. I'm passionate about extracting insights through "
+            "I'm passionate about extracting insights through "
             f"{', '.join(self.interests)}.\n\n"
+            f"My hobbies include{', '.join(self.hobbies)}"
             "Let's connect to share ideas, collaborate, and explore opportunities in technology and data!"
         )
 
