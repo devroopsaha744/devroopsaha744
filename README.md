@@ -47,11 +47,12 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
-![CrewAI](https://docs.crewai.com/crew_only_logo.png)
 
 
 
 ### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-brightgreen)
 ![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-4C8CBC?style=for-the-badge&logo=qdrant&logoColor=white)
 
