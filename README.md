@@ -47,7 +47,8 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
-- ![CrewAI](https://docs.crewai.com/crew_only_logo.png) 
+![CrewAI](https://img.shields.io/badge/CrewAI-1.0-blue)
+
 
 
 ### Databases  
