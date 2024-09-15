@@ -19,40 +19,48 @@
 
 ## 💻 Tech Stack
 
-### Languages  
+### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Libraries & Frameworks  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Databases  
-![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-4C8CBC?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Tools  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
+### Libraries & Frameworks  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0696A6?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
-## 🔥 Projects
-- [**Chirpy**](https://github.com/devroopsaha744/Chirpy) - AI-powered integration for Sparrow, revolutionizing API management with context-aware chatbots and automated workflows.
-- [**math Llama**](https://github.com/devroopsaha744/math-Llama) - Finetuned **Llama-2 7B** chat model using **QLoRA** technique on Olympiad-style mathematical problem-solving.
-- [**FitVid**](https://github.com/devroopsaha744/FitVid) - AI-powered visual Gym to track exercise movements using **OpenCV** and **MediaPipe**.
+
+### Databases  
+![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-4C8CBC?style=for-the-badge&logo=qdrant&logoColor=white)
+
 
 ---
 
 ## 🌱 What I'm Currently Working On
-- Finetuning large language models and experimenting with **RAG** for advanced AI applications.
-- Enhancing my skills in **MLOps** and deployment with tools like **Streamlit** and **LangChain**.
+- Enhancing my skills in **MLOps** and deployment with tools like AWS, Jenkins, MLflow, fastAPI
+-  also working on my analytics skills with tools like excel and Tableau
+-  Sharpening my DSA skils by continously solving problems on Leetcode
 
 ---
 
