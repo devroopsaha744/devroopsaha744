@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Devroop Saha!
 
-**Data Science and AI enthusiast** passionate about Machine Learning, Deep Learning, and Computer Vision. I'm actively contributing to cutting-edge projects, exploring Large Language Models (LLMs), and fine-tuning them for real-world applications. Currently a Machine Learning Researcher at the **Machine Learning Centre of Excellence**.
+**Data Science and AI enthusiast** passionate about Machine Learning, Deep Learning, and Generative AI. I'm actively contributing to cutting-edge projects, exploring Large Language Models (LLMs), and fine-tuning them for real-world applications. Currently a Machine Learning Researcher at the **Machine Learning Centre of Excellence**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devroopsaha744&color=brightgreen)  
 [![Linkedin Badge](https://img.shields.io/badge/-Devroop%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devroop-saha-datafreak/)](https://www.linkedin.com/in/devroop-saha-datafreak/) 
@@ -47,7 +47,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+- ![CrewAI](https://docs.crewai.com/crew_only_logo.png) 
 
 
 ### Databases  
