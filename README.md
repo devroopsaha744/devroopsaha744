@@ -48,15 +48,15 @@
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-v10-orange?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-v10-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-brightgreen?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-4C8CBC?style=for-the-badge&logo=qdrant&logoColor=white)
 
