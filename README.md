@@ -55,8 +55,8 @@
 
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-003545?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-v5.0-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-336791?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-4C8CBC?style=for-the-badge&logo=qdrant&logoColor=white)
 
