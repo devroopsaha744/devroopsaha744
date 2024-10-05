@@ -7,6 +7,9 @@
 [![GitHub Badge](https://img.shields.io/badge/-devroopsaha744-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devroopsaha744)](https://github.com/devroopsaha744) 
 [![Medium Badge](https://img.shields.io/badge/-datafreakai-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@datafreakai)](https://medium.com/@datafreakai) 
 [![Gmail Badge](https://img.shields.io/badge/-devroopsaha844@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devroopsaha844@gmail.com)](mailto:devroopsaha844@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-bouncy_hufflepuff-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/bouncy_hufflepuff/)](https://leetcode.com/u/bouncy_hufflepuff/)
+
+
 
 
 ---
