@@ -19,6 +19,7 @@
 - **Top 10** finish among 500+ participants in **AI Bioinnovate Hackathon** organized by IIT-Jodhpur and ChemBioAI.
 - **2nd Rank** in department in University Examinations.
 - Awarded cash prizes for maintaining high attendance and academic performance.
+- Solved 100+ problems on various coding platforms.
 
 ---
 
