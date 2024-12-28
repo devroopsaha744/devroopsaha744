@@ -15,7 +15,9 @@
 ---
 
 ## 🏆 Achievements
+- **4th position** in the Data Analytics Competition of NSSC, at **IIT Kharagpur** with over **450 participants**.
 - **Runner Up** among 350+ participants in Sparrowthon organized by Techdome with the project [Chirpy](https://github.com/devroopsaha744/Chirpy).
+- **2nd position** in **AKTU technical, literary and management** fest in KIET Ghaziabad with over **100** particpants.
 - **Top 10** finish among 500+ participants in **AI Bioinnovate Hackathon** organized by IIT-Jodhpur and ChemBioAI.
 - **2nd Rank** in department in University Examinations.
 - Awarded cash prizes for maintaining high attendance and academic performance.
@@ -78,9 +80,7 @@
 
 ## 📊 GitHub Stats
 
-![Devroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devroopsaha744&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devroopsaha744&layout=compact&theme=radical)
-
+[![Devroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=devroopsaha744)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
