@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Devroop Saha!
+# Hi there 👋, I'm Devroop Saha, also known as **datafreak**
 
-**Data Science and AI enthusiast** passionate about Machine Learning, Deep Learning, and Generative AI. I'm actively contributing to cutting-edge projects, exploring Large Language Models (LLMs), and fine-tuning them for real-world applications. Currently a Machine Learning Researcher at the **Machine Learning Centre of Excellence**.
+I am passionate about Data Science, Machine Learning, Deep Learning, and Generative AI. I thrive on contributing to cutting-edge projects and pushing the boundaries of AI innovation. I am currently working as an AIML developer at the **Machine Learning Center of Excellence**.
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devroopsaha744&color=brightgreen)  
 [![Linkedin Badge](https://img.shields.io/badge/-Devroop%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devroop-saha-datafreak/)](https://www.linkedin.com/in/devroop-saha-datafreak/) 
