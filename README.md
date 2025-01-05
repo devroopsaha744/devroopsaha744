@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Devroop Saha, (aka. **datafreak**)
+# Hi there 👋, I'm Devroop Saha (aka. **datafreak**)
 
 I am passionate about Data Science, Machine Learning, Deep Learning, and Generative AI. I thrive on contributing to cutting-edge projects and pushing the boundaries of AI innovation. I am currently working as an AIML developer at the **Machine Learning Center of Excellence**.
 
