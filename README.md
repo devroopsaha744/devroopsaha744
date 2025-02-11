@@ -73,13 +73,6 @@ I am passionate about Data Science, Machine Learning, Deep Learning, and Generat
 
 ---
 
-## 🌱 What I'm Currently Working On
-- Enhancing my skills in **MLOps** and deployment with tools like AWS, Jenkins, MLflow, fastAPI
--  also working on my analytics skills with tools like excel and Tableau
--  Sharpening my DSA skils by continously solving problems on Leetcode
-
----
-
 ## 📊 GitHub Stats
 
 [![Devroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=devroopsaha744)](https://github.com/anuraghazra/github-readme-stats)
