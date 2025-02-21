@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Devroop Saha (aka. **datafreak**)
 
-I am passionate about Data Science, Machine Learning, Deep Learning, and Generative AI. I thrive on contributing to cutting-edge projects and pushing the boundaries of AI innovation. I am currently working as an AIML developer at the **Machine Learning Center of Excellence**.
+As an AI/ML Engineer, I specialize in building and deploying machine learning and deep learning models, with expertise in fine-tuning models for specific use cases. I focus on developing robust RAG systems, AI-driven agentic systems, and production-level AI solutions. My work involves leveraging cutting-edge technologies in generative AI, NLP, and MLOps to create scalable, real-world AI systems across various domains, including law, medicine education and other domains.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devroopsaha744&color=brightgreen)  
