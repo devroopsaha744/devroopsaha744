@@ -75,11 +75,6 @@ Currently, I'm also working as an **AI Engineer at DailyWellnessAI**, contributi
 
 ---
 
-## 📊 GitHub Stats
-
-[![Devroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=devroopsaha744)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 
 
