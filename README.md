@@ -77,6 +77,8 @@ Currently, I'm also working as an **AI Engineer at DailyWellnessAI**, contributi
 <!-- Copy-paste in your Readme.md file -->
 
 ![devroopsaha744's Stats](https://github-readme-stats.vercel.app/api?username=devroopsaha744&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![devroopsaha744's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devroopsaha744&theme=prussian&hide_border=false)
+![devroopsaha744's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devroopsaha744&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
