@@ -2,7 +2,6 @@
 
 I'm an **AI/ML Engineer**, specializing in building and deploying machine learning and deep learning models. My expertise lies in fine-tuning models for specific applications, developing robust RAG systems, AI-driven agents, and production-ready AI solutions. I work with cutting-edge technologies in generative AI, NLP, and MLOps to build scalable, real-world AI systems across domains like healthcare, law, and education.  
 
-Currently, I'm also working as an **AI Engineer at DailyWellnessAI**, contributing to AI-driven solutions in the wellness and fitness space.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devroopsaha744&color=brightgreen)  
