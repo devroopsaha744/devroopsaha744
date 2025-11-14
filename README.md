@@ -26,6 +26,8 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
 - Solved **300+** problems on Leetcode.
 - Published several blogs related to the subjects of **AI/ML** and **Computer science** on **Medium**.
 
+https://github-profile-trophy.vercel.app/?username=devroopsaha744&theme=matrix
+
 ---
 
 ## 💻 Tech Stack
