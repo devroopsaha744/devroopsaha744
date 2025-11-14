@@ -28,6 +28,8 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
 
 https://github-profile-trophy.vercel.app/?username=devroopsaha744&theme=matrix
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=devroopsaha744&bg=true)](https://github-profile-trophy.vercel.app/?username=devroopsaha744&bg=true)
+
 ---
 
 ## 💻 Tech Stack
