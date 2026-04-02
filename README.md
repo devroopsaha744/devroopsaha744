@@ -42,6 +42,8 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />  
   <img width="12" />  
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="60" alt="golang" />
+  <img width="12" />  
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php" />  
   <img width="12" />  
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash" />  
