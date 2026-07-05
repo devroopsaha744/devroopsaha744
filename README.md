@@ -11,8 +11,9 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
 [![Gmail Badge](https://img.shields.io/badge/-devroopsaha844@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devroopsaha844@gmail.com)](mailto:devroopsaha844@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-bouncy_hufflepuff-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/bouncy_hufflepuff/)](https://leetcode.com/u/bouncy_hufflepuff/)
 
+---
 
-
+[![My GitFut card](https://gitfut.com/devroopsaha744.png)](https://gitfut.com/devroopsaha744)
 
 ---
 
