@@ -13,7 +13,7 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
 
 ---
 
-[![My GitFut card](https://gitfut.com/devroopsaha744)](https://gitfut.com/devroopsaha744)
+[![My GitFut card](https://gitfut.com/devroopsaha744.png)](https://gitfut.com/devroopsaha744)
 
 ---
 
