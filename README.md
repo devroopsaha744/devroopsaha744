@@ -13,10 +13,6 @@ I'm an **AI/ML Engineer**, specializing in building and deploying machine learni
 
 ---
 
-[![My GitFut card](https://gitfut.com/devroopsaha744.png)](https://gitfut.com/devroopsaha744)
-
----
-
 ## 🏆 Achievements
 - **4th position** in the Data Analytics Competition of NSSC, at **IIT Kharagpur** with over **450 participants**.
 - **Runner Up** among 350+ participants in Sparrowthon organized by Techdome with the project [Chirpy](https://github.com/devroopsaha744/Chirpy).
